@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#f5f5f5;
+}
+#a,#b{
+	height:20px;
+	width
+	margin:20px;
+	background-color:white;
+}
+#b{
+	text-align:right;
+}
+#c,#d{
+	margin:20px;
+	background-color:white;
+}
